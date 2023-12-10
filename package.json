@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-resizable",
+  "version": "1.0.0",
+  "description": "This is a Tiptap extension designed to enable resizing for your Tiptap content, including elements such as images and videos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "resize",
+    "image"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-resizable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-resizable.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.1.13"
+  }
+}
