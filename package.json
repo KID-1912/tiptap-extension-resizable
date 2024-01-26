@@ -1,6 +1,6 @@
 {
   "name": "tiptap-extension-resizable",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This is a Tiptap extension designed to enable resizing for your Tiptap content, including elements such as images and videos",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@tiptap/core": "^2.1.13"
+    "@tiptap/core": "^2.1.13",
+    "lodash-es": "^4.17.21"
   }
 }

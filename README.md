@@ -14,7 +14,7 @@
   </a>
   <img
      alt="version"
-     src="https://img.shields.io/badge/version-1.1.0-blue">
+     src="https://img.shields.io/badge/version-1.1.1-blue">
 </p>
 
 [![](https://raw.githubusercontent.com/KID-1912/Github-PicGo-Images/master/202312101313640.png)](https://www.npmjs.com/package/tiptap-extension-resizable)
@@ -61,10 +61,6 @@ You can configure extension options, which are optional.
     }),
   ],
 ```
-
-## Planned Features
-
-- resizable video
 
 ## Relations
 
