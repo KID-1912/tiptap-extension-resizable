@@ -14,14 +14,14 @@
   </a>
   <img
      alt="version"
-     src="https://img.shields.io/badge/version-1.0.0-blue">
+     src="https://img.shields.io/badge/version-1.1.0-blue">
 </p>
 
 [![](https://raw.githubusercontent.com/KID-1912/Github-PicGo-Images/master/202312101313640.png)](https://www.npmjs.com/package/tiptap-extension-resizable)
 
 <br>
 
--------------
+---
 
 ## Tnstall
 
@@ -32,15 +32,11 @@ npm install tiptap-extension-resizable -S
 ## Usage
 
 ```js
-import Resizable from "tiptap-extension-resizable"
+import Resizable from "tiptap-extension-resizable";
 
 const editor = new Editor({
   element: document.querySelector(".editor"),
-  extensions: [
-    StarterKit,
-    Image.configure({ inline: true }),
-    Resizable,
-  ],
+  extensions: [StarterKit, Image.configure({ inline: true }), Resizable],
 });
 ```
 
