@@ -23,7 +23,7 @@
 
 ---
 
-## Tnstall
+## Install
 
 ```shell
 npm install tiptap-extension-resizable -S
